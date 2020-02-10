@@ -1,2 +1,3 @@
 # hello-world
 Hello World!
+I am an upcomming website developer, i liked it as a hobby so...
